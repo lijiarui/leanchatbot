@@ -1,0 +1,24 @@
+{
+  "name": "leanchatbot",
+  "version": "0.0.1",
+  "description": "lean chat bot",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "standard --verbose | snazzy"
+  },
+  "repository": "git@github.com:Jimexist/leanchatbot.git",
+  "author": "Jiayu Liu <jiayu@madadata.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "6.x"
+  },
+  "dependencies": {
+    "chromedriver": "^2.27.2",
+    "leanengine": "^1.2.3",
+    "wechaty": "^0.7.17"
+  },
+  "devDependencies": {
+    "snazzy": "^6.0.0",
+    "standard": "^8.6.0"
+  }
+}
