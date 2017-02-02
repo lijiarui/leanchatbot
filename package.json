@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "chromedriver": "^2.27.2",
-    "leanengine": "^1.2.3",
+    "leancloud-storage": "^2.1.0",
     "wechaty": "^0.7.17"
   },
   "devDependencies": {
